@@ -16,6 +16,5 @@ Experimenting with html
      </tr>
     </table>
    </div>
-   >
  </body>
 </html>
