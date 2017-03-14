@@ -3,7 +3,7 @@ Experimenting with html
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Number 1</table>
+  <title>Number 1</title>
  </head>
  <body>
    <h1 style: color = "gray">This Is My First Webpage!</h1>
@@ -11,7 +11,7 @@ Experimenting with html
    <div>
     <table>
      <tr>
-      <td><img src="http://www2.shutterstock.com/webstack/img/lohp/carousel/Photos/shutterstock_126829271.jpg"/>
+      <td><img src="http://bit.ly/2nnGT3L"/>
       </td>
      </tr>
     </table>
