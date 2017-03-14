@@ -1,9 +1,7 @@
 # First-html
 Experimenting with html
-<!DOCTYPE html>
 <html>
  <head>
-  <title>Number 1</title>
  </head>
  <body>
    <h1 style: color = "gray">This Is My First Webpage!</h1>
@@ -11,6 +9,7 @@ Experimenting with html
    <div>
     <table>
      <tr>
+     (docs/Piano.jpg)
       <td><img src="https://github.com/georgewpurnell/First-html/blob/master/Piano.jpg"/>
       </td>
      </tr>
