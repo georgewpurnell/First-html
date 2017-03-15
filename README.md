@@ -9,7 +9,6 @@ Experimenting with html
    <div>
     <table>
      <tr>
-     (docs/Piano.jpg)
       <td><img src="https://github.com/georgewpurnell/First-html/blob/master/Piano.jpg"/>
       </td>
      </tr>
